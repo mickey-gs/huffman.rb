@@ -6,6 +6,6 @@ Simply follow the instructions on screen in order to compress or decompress your
 
 ## Versions
 ### Windows:
-Download huffman_master.rb in order to use this program.
+Download huffman_master.exe in order to use this program.
 ### Linux:
 Ensure that you have Ruby installed (typing `ruby --version` into the console will let you know if it's installed) and simply run the script by entering `ruby huffman.rb` into console. Note that this requires that the compressor.rb file is downloaded and in the same folder.
